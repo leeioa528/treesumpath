@@ -1,0 +1,12 @@
+.idea
+.git
+.gradle
+bin
+build
+/*.iml
+/*.ipr
+/*.iws
+/logback.groovy
+.settings
+.classpath
+.project
