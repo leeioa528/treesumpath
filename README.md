@@ -58,7 +58,9 @@ Input to sum with value 8
 Input to sum with value 9
 
 5 => -1 => 5 =>
+
 3 => 4 => -8 => 3 => 7 =>
+
 2 => 4 => -1 => 5 => 3 => 4 => -8 =>
 
 
